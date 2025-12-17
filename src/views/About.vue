@@ -18,7 +18,7 @@
           <h2 class="text-2xl font-semibold text-gray-900 mb-4">Our Mission</h2>
           <p class="text-gray-600 mb-6">
             To serve the residents of Barangay Bagong Barrio with dedication,
-            integrity, and excellence. We strive to provide efficient public
+            integrity, and excellence. we strive to provide efficient public
             services, foster community development, and maintain peace and order
             within our barangay.
           </p>
