@@ -17,8 +17,8 @@ jobs:
       - name: Copy files to Linode
         uses: appleboy/scp-action@v0.1.7
         with:
-          host: ${{ secrets.SERVER_IP }}
-          username: ${{ secrets.SERVER_USER }}
+          host: ${{ secrets.139.162.54.226 }}
+          username: ${{ secrets.root }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           source: "dist/*"
           target: "/var/www/brgybagongbarrio.site/frontend"
